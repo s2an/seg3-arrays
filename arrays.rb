@@ -18,3 +18,6 @@ puts percentages
 # the pop method pops an element out the the end of the array and "returns" it
 bombs.pop
 puts bombs
+
+# The index position is where the element is located in the array, with the first element starting with the number zero. Allows for indexing information in large data sets.
+puts percentages[3] * years[2]
